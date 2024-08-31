@@ -12,3 +12,4 @@ def display_weather(data):
     print(f"condition: {description}")
     print(f"Humidity: {humidity}")
     print(f"pressure: {pressure}")
+    
